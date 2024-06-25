@@ -1,0 +1,9 @@
+- Analista de Negocio (BA) ^BA
+- Líder Senior (SL) ^SL
+- Co-Líder ^Co-SL
+- Desarrollador Backend ^Back
+- Desarrollador Frontend ^Front
+- Desarrollador Web ^Web-Dev
+- UI/UX ^UI-UX
+- SysAdmin ^Sys
+- Analista de calidad (QA) ^QA

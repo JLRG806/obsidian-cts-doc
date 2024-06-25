@@ -1,0 +1,1 @@
+A lo largo del road map se han explorado diversos conceptos, lo que nos impulsa a desarrollar un portfolio como proyecto. Comenzaremos desde lo más básico con HTML y avanzaremos progresivamente conforme sigamos el road map, hasta dominar el framework que emplea vuestro equipo.
