@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9fdef22f1c59ed55",
+        "id": "f1a7e309949959f0",
         "type": "tabs",
         "children": [
           {
-            "id": "436246956323b2cd",
+            "id": "a2ed1ed9cdc40bc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HelloWorld!/3 - Slack/3.1 Configuración de Perfil.md",
+                "file": "Backend/1. General Concepts/Internet/5 - What is web hosting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HelloWorld!/3 - Slack/3.1 Configuración de Perfil.md",
+                "file": "Backend/1. General Concepts/Internet/5 - What is web hosting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HelloWorld!/3 - Slack/3.1 Configuración de Perfil.md",
+                "file": "Backend/1. General Concepts/Internet/5 - What is web hosting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HelloWorld!/3 - Slack/3.1 Configuración de Perfil.md"
+                "file": "Backend/1. General Concepts/Internet/5 - What is web hosting.md"
               }
             }
           }
@@ -138,63 +138,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "436246956323b2cd",
+  "active": "a2ed1ed9cdc40bc7",
   "lastOpenFiles": [
+    "Backend/1. General Concepts/Internet/4 - DNS.md",
+    "Backend/1. General Concepts/Internet/3 - What is a Domain Name.md",
+    "Backend/1. General Concepts/Internet/2 - What is HTTP.md",
+    "Backend/1. General Concepts/Internet/1 - How does internet work.md",
+    "README.md",
+    "Sin título.canvas",
+    "Backend/2. Programming Languages/2 - Programming Paradigms/2 - Programacion Funcional.md",
+    "Backend/2. Programming Languages/2 - Programming Paradigms/1 - Programación Imperativa.md",
+    "Backend/2. Programming Languages/1 - Programming languages/Python.md",
+    "Backend/2. Programming Languages/1 - Programming languages/PHP.md",
+    "Backend/2. Programming Languages/1 - Programming languages/Java Script.md",
+    "Frontend/assets/Pasted image 20240626112408.png",
+    "Frontend/assets/Pasted image 20240626112014.png",
+    "Frontend/assets/Pasted image 20240626111922.png",
+    "Frontend/assets/Pasted image 20240626111748.png",
+    "Frontend/assets/Pasted image 20240626111735.png",
+    "Frontend/assets/Pasted image 20240626111606.png",
+    "Frontend/assets/Pasted image 20240626111602.png",
+    "Frontend/assets/Pasted image 20240626111405.png",
+    "Frontend/assets/Pasted image 20240626111327.png",
+    "Frontend/assets/Pasted image 20240626111258.png",
+    "Backend/2. Programming Languages/1 - Programming languages/Java.md",
+    "Backend/2. Programming Languages/1 - Programming languages/Type Script.md",
+    "Backend/1. General Concepts/Internet/5 - What is web hosting.md",
+    "Sysadmin/3 - Servicios de Red/3.5 DHCP.md",
+    "Sysadmin/3 - Servicios de Red/Sin título.md",
+    "Sysadmin/3 - Servicios de Red/3.4 DNS.md",
+    "Sysadmin/3 - Servicios de Red/3.3 SSH.md",
+    "Sysadmin/1 - Fundamentos de Administración de Sistemas/1.4 Fundamentos de Hardware/Principios de almacenamiento.md",
+    "Sysadmin/1 - Fundamentos de Administración de Sistemas/1.4 Fundamentos de Hardware/Sin título.md",
+    "Sysadmin/1 - Fundamentos de Administración de Sistemas/1.4 Fundamentos de Hardware/Diagnóstico y resolución de problemas de hardware.md",
+    "Sysadmin/1 - Fundamentos de Administración de Sistemas/1.4 Fundamentos de Hardware/Montaje básico y mantenimiento de hardware.md",
+    "Sysadmin/1 - Fundamentos de Administración de Sistemas/1.4 Fundamentos de Hardware/Componentes principales de un sistema informático.md",
+    "Sysadmin/1 - Fundamentos de Administración de Sistemas/1.3 Principios de Redes/Introducción a la Seguridad de la Red.md",
+    "Sysadmin/1 - Fundamentos de Administración de Sistemas/1.3 Principios de Redes/Sin título.md",
+    "Sysadmin/1 - Fundamentos de Administración de Sistemas/1.3 Principios de Redes/Configuración básica de red en Linux y Windows.md",
+    "README.html",
+    "Frontend/New chapter roadmap/4 - Desarrollo de aplicaciones",
+    "Frontend/New chapter roadmap/3 - Native, Librerias & Frameworks",
+    "Backend/1. General Concepts/Internet",
+    "LICENSE",
     "Thumbs.db",
-    "HelloWorld!/1 - Git/Recursos Útiles - Git.md",
-    "Common/Roles.md",
-    "Common/Dominios.md",
-    "HelloWorld!/5 - Email + TIC/5.2 Firma.md",
-    "HelloWorld!/5 - Email + TIC/assets/firma-gmail4.png",
-    "HelloWorld!/1 - Git/1 - Inicio - Sobre el Control de Versiones/1.1 - Acerca del Control de Versiones.md",
-    "HelloWorld!/5 - Email + TIC/assets/firma-gmail3.png",
-    "HelloWorld!/5 - Email + TIC/assets/firma-gmail1.png",
-    "HelloWorld!/5 - Email + TIC/assets/firma-gmail2.png",
     "HelloWorld!/5 - Email + TIC/assets",
-    "Backend/12. Real Time Data",
+    "assets",
+    "Untitled",
     "Backend/5. Caching/2- Server Side",
-    "Backend/5. Caching/Sin título",
-    "Backend/5. Caching/1 - Client Side",
-    "Backend/5. Caching/1 -Client Side",
-    "Backend/5. Caching/Client Side",
-    "Backend/4. REST API'S development/Module 7 - Docker and API Testing",
-    "Backend/4. REST API'S development/Sin título",
-    "Backend/4. REST API'S development/Module 6 - API Documentation and Standards",
-    "HelloWorld!/5 - Email + TIC/5.3 Google Calendar.md",
-    "HelloWorld!/3 - Slack/3.2 Workspaces.md",
-    "HelloWorld!/2 - Asana/2.4 Historia de usuario.md",
-    "Backend/4. REST API'S development/Sin título.md",
-    "HelloWorld!/2 - Asana/2.2 Backlog.md",
-    "HelloWorld!/2 - Asana/2.1 Tablero.md",
-    "Screenshot 2024-06-17 at 11.04.44 1.png",
-    "Backend/3. Databases/Sin título.md",
     "Untitled.canvas",
-    "Screenshot 2024-06-17 at 11.04.44.png",
-    "Sysadmin/1 - Fundamentos de Administración de Sistemas/1.2 Sistemas Operativos Básicos/1.2 Sistemas Operativos Básicos.md",
-    "Sysadmin/1 - Fundamentos de Administración de Sistemas/1.1 Introducción a la Administración de Sistemas/1.1 Introducción a la Administración de Sistemas.md",
-    "Frontend/New chapter roadmap/3 - Live the design/Typescript.md",
-    "Frontend/New chapter roadmap/3 - Live the design/Javascript.md",
-    "Frontend/New chapter roadmap/3 - Live the design/Frameworks & Librerias.md",
-    "Frontend/New chapter roadmap/2 - Design Basics/Diseñar y maquetar, CSS debes manejar..md",
-    "Frontend/New chapter roadmap/0 - Equipment/Equipación para un front end..md",
-    "Backend/Backend Projects/Project 1/Node.js Express - Token Based Authentication & Authorization.md",
-    "Frontend/New chapter roadmap/3 - Live the design/Untitled.md",
-    "Sysadmin/1 - Fundamentos de Administración de Sistemas/1.3 Principios de Redes/1.3 Principios de Redes.md",
-    "HelloWorld!/4 - Metodologías Ágiles/4.3 Retrospectiva.md",
-    "HelloWorld!/4 - Metodologías Ágiles/4.2 Planning.md",
-    "HelloWorld!/4 - Metodologías Ágiles/4.1 Daily.md",
-    "HelloWorld!/1 - Git/assets/figura-2.png",
-    "HelloWorld!/1 - Git/assets/figura-1.png",
-    "Frontend/assets/Pasted image 20240607102739.png",
-    "Frontend/assets/Pasted image 20240607085132.png",
     "Frontend/Sin título.canvas"
   ]
 }

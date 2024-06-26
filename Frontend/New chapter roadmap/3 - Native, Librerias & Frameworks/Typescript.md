@@ -1,0 +1,3 @@
+TypeScript es como una versión mejorada de JavaScript. La principal diferencia es que te permite agregar "tipos" a tu código. Esto significa que puedes decirle al programa qué tipo de datos esperas usar, lo cual ayuda a evitar errores.
+
+Añade una capa extra de seguridad y organización al código JavaScript. Te obliga a definir qué tipo de datos estás usando (números, texto, etc.), lo cual ayuda a evitar errores y hace que tu código sea más fácil de entender y mantener, especialmente en proyectos grandes.

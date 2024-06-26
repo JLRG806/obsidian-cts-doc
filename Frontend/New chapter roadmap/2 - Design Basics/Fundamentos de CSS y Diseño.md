@@ -1,6 +1,4 @@
 
-## Fundamentos de CSS
-
 CSS es un lenguaje que define el diseño y disposición de páginas web. En otras palabras, CSS controla el aspecto de las páginas web cuando se cargan en un navegador. A este diseño lo llamamos el “estilo” de la página.
 
 Diferencia entre HTML Y CSS
@@ -49,7 +47,6 @@ En este caso llamaremos a nuestro archivo "mystyle.css" y haremos un par de ejem
 `</body>`  
 `</html>`
 
-
 ### Selectores Básicos
 
 Existen 3 tipos de selectores:
@@ -62,14 +59,13 @@ Se refieren a cuando se le quiere aplicar estilo a un elemento HTML de un cierto
 En este ejemplo mostraremos que desearemos que todos los párrafos de nuestro HTML sean rojos.
 
 HTML
-![[Pasted image 20240607103015.png]]
+![[Pasted image 20240625123511.png]]
 
 CSS
-![[Pasted image 20240607102951.png]]
+![[Pasted image 20240625122809.png]]
 
 Resultado
 ![[Pasted image 20240607102919.png]]
-
 #### De clase e ID
 
 De clase: Los selectores de clase seleccionan todos los elementos que tienen una clase específica en el elemento HTML.
@@ -82,13 +78,11 @@ El selector universal: selecciona todos los elementos en una página web. Se den
 
 Para poder crear un ejemplo real en el que facilmente podemos ver en que podemos usar los ID y las clases y clases universales. Realizaremos el siguiente ejercicio.
 
-Crearemos una landing similar a la de lego he iremos identificando elementos y sabremos que podría ser un ID y una clase. 
-
-**Esta landing la iremos mejorando conforme lo que iremos viendo mas adelante**
+Crearemos las figuras de lego he iremos identificando elementos y sabremos que podría ser un ID y una clase. 
 
 ![[Pasted image 20240607124021.png]]
 
-Como mencionamos anteriormente un elemento que tiene ID es aquel elemento que tiene que ser unico en todo el documento HTML, en este caso el navbar seria ese elemento y los elementos que tendrian una clase especifica serian las cartas de las figuras lego, por que todas tienen el mismo estilo y estructura.
+Como mencionamos anteriormente un elemento que tiene ID es aquel elemento que tiene que ser único en todo el documento HTML, en este caso el navbar seria ese elemento y los elementos que tendrían una clase especifica serian las cartas de las figuras lego, por que todas tienen el mismo estilo y estructura.
 
 Realizaremos parte por parte para ir logrando la landing que deseamos.
 
@@ -197,15 +191,10 @@ A continuación aplicaremos las diferentes propiedades de `justify-content`
 ![[Screenshot 2024-06-17 at 11.04.44.png]]
 
 Si quieres seguir investigando mas sobre flexbox y seguir probando propiedades con el ejemplo que tenemos, aquí tienes mas información: https://css-tricks.com/snippets/css/a-guide-to-flexbox/ 
+### Mobile First Design
 
-### Anatomia de un diseño
+El Mobile First Design es la metodología que busca adaptarse prioritariamente al formato mobile y a partir del cuál adaptaremos el resto de variantes al resto de dispositivos. Una metodología que busca adaptar la navegación en base al comportamiento del usuario, mayoritariamente activo a través de su dspositivo móvil.
 
-En esta sección abordaremos completar el diseño de la landing de lego que hemos mencionado en la sección de clases e ID.
+La filosofía mobile first design, consiste en realizar una página web primero para móviles e ir adaptando el diseño para pantallas más grandes de menor a mayor tamaño. Permite centrarse en los elementos y acciones más importantes, crear una buena experiencia para el usuario y generar la mejor usabilidad posible.
 
-Diseño 1 
-Diseño 2
-Demo del diseño anterior
-
-### Responsive
-#### Mobile First Design
-Demo
+(Demo de Mobile First Design, incluira Figma y Website)
